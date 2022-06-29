@@ -2,7 +2,7 @@
 
 In addition to working closely with your Training Provider, VA has compiled a list of resources designed to assist you in your search for meaningful employment. Work through this checklist as you continue your search:
 
-- [ ] Review the attached VET TEC Student Onboarding Kit, which provides information on resources available to VET TEC students, as well as information about the employers that are part of our Employer Consortium.
+- [ ] Review the attached [VET TEC Student Onboarding Kit](http://www.benefits.va.gov/GIBILL/docs/FGIB/VET_TEC_Students_Welcome.pdf), which provides information on resources available to VET TEC students, as well as information about the employers that are part of our Employer Consortium.
 
 - [ ] Email VETTECPartner@VA.gov to request free one-year access to LinkedIn Premium. Please include “LinkedIn Premium Access Request” in the subject line.
 
